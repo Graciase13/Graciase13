@@ -1,0 +1,89 @@
+wport" content="width=device-width, initial-scale=1">
+  <title>=GODLY SEED</title>
+  <link rel="stylesheet" href="seed.css">
+</head>
+
+<body>
+<div class="banner ">
+  <div class="navbar">
+    <img src="godly.png" class="logo" width="50px">
+     <ul>
+       <li><a href="#">Home</a></li>
+       <li><a href="#">About</a></li>
+       <li><a href="#">Service</a></li>
+       <li><a href="#" style="background-color: ">Career</a></li>
+       <li><a href="#">Contact</a></li>
+     </ul>
+     </div>
+     
+  <div class="content">
+    <h1>SAVE A CHILD <br><span>TODAY</span></h1>
+    
+  </div>
+</div>
+<!..About section..>
+<section class="about ">
+  <div class="main">
+    <img src="love.png" width="50%">
+    <div class="about-text">
+      <h2>About me</h2>
+      <h5>CEO of <span>Godly Seed Welfare</span></h5>
+      <p>I am Akinyele Adebola Oluwatoyin. 
+      CEO of Godly Seed Welfare and children care centre
+      I was born and raised in Osun state at Ilesha 
+      I am the forth born of my mum
+      I am a successful typist who owns a computer centre where i train people. <br>
+      I am happily married with  four children  a boy and three  girls
+      </p>
+      <button class="button">Let talk</button>
+      
+    </div>
+    
+  </div>
+  
+</section>
+
+<!..service section..>
+<div class="service ">
+  <div class="title">
+    <h2>Our service</h2>
+  </div>
+  <div class="box">
+    <div class="card">
+      <h5>Charity Member</h5>
+      <div class="pra">
+        <p>Every child has the right to education: Babies nutrients Centre, Comfort Zone to less-prviileges.</p>
+        <p style="text-align:center;">
+          <a class="botton " href="#">Read more</a>
+        </p>
+        
+      </div>
+    </div>
+    <div class="box">
+      <div class="card">
+        <h5>Charity Member</h5>
+        <div class="pra">
+          <p>Every child has the right to education:Connecting People for better life, Counsel on Domestic Trauma.</p>
+          <p style="text-align:center;">
+            <a class="botton " href="#">Read more</a>
+          </p>
+    
+        </div>
+      </div>
+      <div class="box">
+        <div class="card">
+          <h5>Charity Member</h5>
+          <div class="pra">
+            <p>Every child has the right to education:Support to the needies, Skill learning for Children and Youth for bette tomorrow.</p>
+            <p style="text-align:center;">
+              <a class="botton " href="#">Read more</a>
+            </p>
+      
+          </div>
+        </div>
+  </div> 
+</div>
+
+</body>
+
+</html>
